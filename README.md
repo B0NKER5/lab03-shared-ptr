@@ -1,3 +1,7 @@
+| branch | status |
+|--------|--------|
+|  dev   | [![CI](https://github.com/B0NKER5/lab04-fileboost/workflows/CI/badge.svg)](https://github.com/B0NKER5/lab04-fileboost/actions/runs/493250940)|
+
 # Лабораторная работа №3
 
 ### Задание
