@@ -1,6 +1,6 @@
 | branch | status |
 |--------|--------|
-|  dev   | [![CI](https://github.com/B0NKER5/lab03-shared-ptr/workflows/CI/badge.svg)](https://github.com/B0NKER5/lab04-fileboost/actions/runs/493250940)|
+|  dev   | [![CI](https://github.com/B0NKER5/lab03-shared-ptr/workflows/CI/badge.svg)](https://github.com/B0NKER5/lab03-shared-ptr/actions/runs/501060215)|
 
 # Лабораторная работа №3
 
