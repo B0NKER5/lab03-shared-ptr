@@ -6,6 +6,7 @@
 #include <string>
 #include <atomic>
 #include <utility>
+#include <iostream>
 
 using std :: atomic;
 
